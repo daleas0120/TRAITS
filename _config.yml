@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TRAITS
-email: ashley.dale@utoronto.ca
-description: >- # this means to ignore newlines until "baseurl:"
-  TRusted AI for Science Toolkit
+title: TRAITS - Trustworthy AI Toolkit for Science
+email: trustworthy.ai.toolkit@gmail.com
+description: TRusted AI for Science Toolkit # this means to ignore newlines until "baseurl:"
 baseurl:  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
