@@ -306,6 +306,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  faraday (~> 2.7, >= 2.7.11)
   github-pages (~> 232)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
