@@ -15,3 +15,7 @@ permalink: /updates/
   {% endfor %}
 </ul>
 
+So excited to share early work with the AI for Science community at Cambridge!
+
+
+<embed src="/TRAITS/assets/posters/Dale_poster.pdf" width="848" height="600px" class="center"/>
