@@ -6,6 +6,7 @@ layout: post
 title: Updates
 permalink: /updates/
 ---
+<base href="/TRAITS" />
 
 <ul>
   {% for post in site.posts %}
