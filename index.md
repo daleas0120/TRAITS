@@ -8,7 +8,7 @@ layout: page
 <center><img src="/assets/traits_logo.png" width="300" class="center"/> </center>
 </center>
 
-**LOOKING FOR COLLABORATORS! We would love to include the trustworthiness of your model in our forthcoming index.  Please get in touch either via <a href="mailto:trustworthy.ai.toolkit@gmail.com">email</a> or [through this Google Form]()**
+**LOOKING FOR COLLABORATORS! We would love to include the trustworthiness of your model in our forthcoming index.  Please get in touch either via <a href="mailto:trustworthy.ai.toolkit@gmail.com">email</a> or [through this nifty Google Form](https://docs.google.com/forms/d/e/1FAIpQLScH5_oJkwBK3pt8WjwjnXhkeBhITSmryM4RXiwnlve-Beg-Ug/viewform?usp=sf_link).**
 
 The **Trustworthy AI Toolkit for Science (TRAITS)** is a model agnostic and task agnostic Python package inspired by various Trustworthy AI Frameworks. Common methods for evaluating the trustworthiness of a model may fail to provide insight into the source of the untrustworthiness. TRAITS allows users to answer questions about their model such as
 
