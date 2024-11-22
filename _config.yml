@@ -21,7 +21,7 @@
 title: TRAITS - Trustworthy AI Toolkit for Science
 email: trustworthy.ai.toolkit@gmail.com
 description: Trustworthy AI for Science Toolkit. An open source python package for AI/ML practitioners in the physical sciences. # this means to ignore newlines until "baseurl:"
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl:/TRAITS  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: 
