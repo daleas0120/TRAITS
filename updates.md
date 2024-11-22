@@ -8,7 +8,7 @@ permalink: /updates/
 ---
 
 <ul>
-  {% for post in /TRAITS/site.posts %}
+  {% for post in TRAITS/site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
